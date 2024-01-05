@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "title": "Продавцы",
+    "arrow": "none"
+  },
+  {
+    "value": "2",
+    "title": "Мои кампании",
+    "arrow": "auto"
+  },
+  {
+    "value": "3",
+    "title": "Актуальные ставки",
+    "arrow": "none"
+  },
+  {
+    "value": "4",
+    "title": "Возможности",
+    "arrow": "auto"
+  }
+]
